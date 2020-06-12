@@ -1,8 +1,13 @@
 [package]
-name = "guile-sys"
+name = "guile-3-sys"
 version = "0.1.0"
 authors = ["Vee Satayamas <vee.sa@protonmail.com>"]
 edition = "2018"
+description = "GNU Guile 3.X wrapper"
+repository = "https://github.com/veer66/guile-3-sys"
+license = "LGPL-3" 
+keywords = ["LISP", "Scheme", "Guile"]
+categories = ["development-tools::ffi"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
