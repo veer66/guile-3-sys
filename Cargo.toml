@@ -5,7 +5,7 @@ authors = ["Vee Satayamas <vee.sa@protonmail.com>"]
 edition = "2018"
 description = "GNU Guile 3.X wrapper"
 repository = "https://github.com/veer66/guile-3-sys"
-license = "LGPL-3" 
+license = "LGPL-3.0" 
 keywords = ["LISP", "Scheme", "Guile"]
 categories = ["development-tools::ffi"]
 
